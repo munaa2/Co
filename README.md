@@ -115,18 +115,6 @@ jobs:
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-`✠ HOW TO DEPLOY MALVIN MD ON WORKFLOWS FREE GITHUB WATCH VIDEO ✠`
-
--------------
-
-<p align="center">
-   <a href="https://youtu.be/C2tzcIJujyc?si=he7nPMYub4U48iUV"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
-    </a>
-</p>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 _____
 
