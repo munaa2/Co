@@ -1,6 +1,6 @@
 {
-  "name": "Co🤹‍",
-  "description": "ᴛʜᴇ ʙᴇsᴛ ᴡᴀ ʙᴏᴛ ʙʏ corneh tech",
+  "name": "🤹‍ʟᴏʀᴅ-xᴍᴅ🤹‍",
+  "description": "ᴛʜᴇ ʙᴇsᴛ ᴡᴀ ʙᴏᴛ ʙʏ ᴍ ᴋɪɴɢ",
   "logo": "https://files.catbox.moe/ug2x1y.jpg",
   "keywords": ["bot"],
   "success_url": "https://github.com/kingmalvn/LORD-XMD",
@@ -136,7 +136,7 @@
     "CAPTION": {
       "description": "enter your caption if you want to show on menu.",
       "required": true,
-      "value": "*ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Xo*"
+      "value": "*ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ʟᴏʀᴅ xᴍᴅ*"
     }, 
     "AUTO_STATUS__MSG": {
       "description": "enter your caption if you want to show on status reply.",
