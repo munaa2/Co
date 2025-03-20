@@ -1,5 +1,5 @@
 {
-  "name": "🅒🅞🅡🅝🅔🅗 🅣🅔🅒🅗 🤹‍",
+  "name": "Corneh tech🤹‍",
   "description": "ᴛʜᴇ ʙᴇsᴛ ᴡᴀ ʙᴏᴛ ʙʏ ᴍ ᴋɪɴɢ",
   "logo": "https://files.catbox.moe/ug2x1y.jpg",
   "keywords": ["bot"],
@@ -22,7 +22,7 @@
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "🅒🅞🅡🅝🅔🅗 🅣🅔🅒🅗  ɪs ᴀʟɪᴠᴇ ♻🔗\n\n© ᴍᴀᴅᴇ ʙʏ ᴍʀ ᴋɪɴɢ ᴍᴀʟᴠɪɴ"
+      "value": "Co ɪs ᴀʟɪᴠᴇ ♻🔗\n\n© ᴍᴀᴅᴇ ʙʏ ᴍʀ ᴋɪɴɢ ᴍᴀʟᴠɪɴ"
     },
     
     "PREFIX": {
@@ -119,7 +119,7 @@
     "BOT_NAME": {
       "description": "write bot your name.",
       "required": true,
-      "value": "🅒🅞🅡🅝🅔🅗 🅣🅔🅒🅗 "
+      "value": "Co"
     }, 
 
     "HEART_REACT": {
